@@ -1,0 +1,37 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-image: url(table.jpg);
+    background-size: cover;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+    
+}
+
+button {
+    color: #016f32;
+    background: goldenrod;
+    width: 200px;
+    font-size: 1.5rem;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: 3px;
+}
+
+#apple-shelf{
+    background: red;
+    width: 150px;
+    border-radius: 5px;
+    border: black;
+}
